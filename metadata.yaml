@@ -1,0 +1,26 @@
+_repo: Op-den-TarnDe-Aarde-en-haar-Volken-1909_25257
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mendell, M.
+    gutenberg_agent_id: '31191'
+    url: http://www.gutenberg.org/2009/agents/31191
+description: ''
+gutenberg_issued: '2008-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25257'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tarn (France) -- Description and travel'
+- !lcc 'DC'
+title: 'Op den Tarn
+
+  De Aarde en haar Volken, 1909'
+url: http://www.gutenberg.org/ebooks/25257
